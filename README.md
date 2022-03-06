@@ -11,7 +11,7 @@ _Replace anything surrounded by the `< >` symbols._
  < Using the turtle module, it draws sin, cosine and tangent curves. It also sets up the world coordinates and draws both axis to make the curves look like what is expected.>
 
 ## GRACE DAYS
-Grace days used for this assignment: < 5 >
+Grace days used for this assignment: < 0 >
 
 Grace days remaining: < 5 >/5
 
