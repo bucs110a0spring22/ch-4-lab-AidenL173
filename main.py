@@ -13,7 +13,7 @@ def drawSineCurve(myturtle=None):
     myturtle.goto(i,y)
     myturtle.down()
 
-def setupWindow(mywindow=None):
+def setupWindow(myturtle=None):
   turtle.setworldcoordinates(-360,-1,360,1)
   turtle.bgcolor("white")
 
